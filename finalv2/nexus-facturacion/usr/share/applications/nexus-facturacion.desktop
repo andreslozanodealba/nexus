@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Nexus Facturación
+Comment=Sistema de gestión administrativa
+Exec=/usr/bin/nexus-facturacion
+Icon=nexus-facturacion
+Terminal=false
+Type=Application
+Categories=Office;Finance;
+StartupWMClass=nexus-facturacion
